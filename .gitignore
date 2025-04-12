@@ -1,0 +1,9 @@
+## ignore directories and files
+MODELO/
+MODELO.7z	
+log/
+.env*
+.env.prod
+csv/
+db/
+__pycache__/
